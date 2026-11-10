@@ -1,0 +1,16 @@
+{
+    "ROS2.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/leonardo/ros2_ws/install/so101_hw_interface/lib/python3.10/site-packages",
+        "/home/leonardo/ros2_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/home/leonardo/ros2_ws/install/athena_voice/lib/python3.10/site-packages",
+        "/home/leonardo/ros2_ws/install/athena_vision/lib/python3.10/site-packages",
+        "/home/leonardo/ros2_ws/install/athena_nav/lib/python3.10/site-packages",
+        "/home/leonardo/ros2_ws/install/athena_llm/lib/python3.10/site-packages",
+        "/home/leonardo/ros2_ws/install/athena_arm/lib/python3.10/site-packages",
+        "/home/leonardo/ros2_ws/install/athena_interface/local/lib/python3.10/dist-packages",
+        "/home/leonardo/ros2_ws/install/athena_brain/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
